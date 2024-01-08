@@ -1,0 +1,11 @@
+@import url("./../globals.css");
+
+.app-container {
+  background-color: #fff;
+  margin-left: var(--sidebar-width);
+  margin-right: 80px;
+  padding: 20px 30px;
+  border-radius: 24px;
+  position: absolute;
+  flex: 1;
+}

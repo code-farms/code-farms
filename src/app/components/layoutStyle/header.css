@@ -1,0 +1,28 @@
+@import url("./../../globals.css");
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 16px;
+  height: var(--header-height);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  background-color: var(--soft-bg-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.header .header-logo {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.header .header-menu {
+  font-size: 22px;
+  font-weight: 500;
+  display: flex;
+  gap: 15px;
+}

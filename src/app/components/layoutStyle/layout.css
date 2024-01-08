@@ -1,0 +1,7 @@
+@import url("./../../globals.css");
+
+.layout {
+  margin-top: var(--header-height);
+  display: flex;
+  flex-direction: row;
+}
