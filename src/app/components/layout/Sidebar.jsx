@@ -6,12 +6,8 @@ export default function Sidebar() {
   return (
     <section className="sidebar-container">
       <div className="sidebar-wrapper">
-        <div className="search-box">
-          <input
-            type="search"
-            placeholder="Search..."
-            className="search-input"
-          />
+        <div className="welcome">
+          <p>Welcome!</p>
         </div>
         <div className="sidebar-list-wrapper">
           <ul className="sidebar-list">

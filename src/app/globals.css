@@ -7,15 +7,21 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
   --header-height: 70px;
-  --sidebar-width: 450px;
+  --sidebar-width: 320px;
   --sidebar-height: 90vh;
-  --ad-section-width: 20%;
-  --soft-bg-color: #ffffff;
+  --ads-section-width: 350px;
+  --soft-bg-color: #fbfdff;
   --dark-bg-color: #374151;
+  --bg-hover-color: #f1f9fe;
   --text-color: #303030;
-  --border-color: #b9bcbe;
+  --border-color: rgba(185, 188, 190, 0.4);
+  --border-radius: 30px;
   --heading-color: #212134;
-  --fw-normal: 500;
+  --fw-normal: 400;
+  --fw-medium: 500;
+  --fw-large: 600;
+  --h1-heading: 55px;
+  --h2-heading: 35px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -34,4 +40,31 @@
 body {
   color: var(--text-color);
   background-color: var(--soft-bg-color);
+}
+
+h1 {
+  font-size: var(--h1-heading);
+  font-weight: var(--fw-medium);
+  margin-bottom: 20px;
+  color: var(--heading-color);
+}
+h2 {
+  font-size: var(--h2-heading);
+  font-weight: var(--fw-medium);
+  margin-bottom: 20px;
+  color: var(--heading-color);
+}
+p {
+  font-size: 20px;
+}
+
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 20px;
+  margin-left: var(--sidebar-width);
+  margin-right: var(--ads-section-width);
+  width: calc(100% - calc(var(--sidebar-width)+var(--ads-section-width)));
 }

@@ -1,0 +1,11 @@
+@import url("./../../globals.css");
+
+.ads-container {
+  position: fixed;
+  right: 0;
+  width: var(--ads-section-width);
+  border-left: 1px solid var(--border-color);
+  padding: 20px;
+  height: 100%;
+  display: none;
+}

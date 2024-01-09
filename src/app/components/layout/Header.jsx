@@ -5,6 +5,9 @@ export default function Header() {
   return (
     <header className="header">
       <div className="header-logo">CodeFarms</div>
+      <div className="search-box">
+        <input type="search" placeholder="Search..." className="search-input" />
+      </div>
       <div className="header-menu">
         <a href="/">Home</a>
         <a href="/about">About</a>
