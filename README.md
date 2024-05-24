@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Shivam Dubey
 - 👀 I’m interested in Software Enginnering
 - 🌱 I’m currently learning TypeScript
--     My Skills are => HTML/CSS, JavaScript, MERN Stack, Next.js, React Native, Redux-Toolkit, MongoDB, MongoDB Pipelines.
+-     skills are = {
+-       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native"],
+-       backend: ["NodeJS", "ExpressJS", "MongoDB", "Redis"],
+-       tools: ["Git", "Docker"],
+-       cloud: ["AWS Lambda", "Amazon EC2", "Amazon DynamoDB", "AWS IAM", "Simple Storage Service", "Amazon API Gateway", "Amazon CloudFront", "Amazon CloudWatch"]
+-     }
 
 
 <!---
