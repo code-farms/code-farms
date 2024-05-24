@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Shivam Dubey
 - 👀 I’m interested in Software Enginnering
 - 🌱 I’m currently learning TypeScript
--     skills are = {
--       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native"],
--       backend: ["NodeJS", "ExpressJS", "MongoDB", "Redis"],
--       tools: ["Git", "Docker"],
--       cloud: ["AWS Lambda", "Amazon EC2", "Amazon DynamoDB", "AWS IAM", "Simple Storage Service", "Amazon API Gateway", "Amazon CloudFront", "Amazon CloudWatch"]
--     }
+- skills are = {
+-   frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native"],
+-   backend: ["NodeJS", "ExpressJS", "MongoDB", "Redis"],
+-   tools: ["Git", "Docker"],
+-   cloud: ["AWS Lambda", "Amazon EC2", "Amazon DynamoDB", "AWS IAM", "Simple Storage Service", "Amazon API Gateway", "Amazon CloudFront", "Amazon CloudWatch"]
+- }
 
 
 <!---
