@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Dubey
 - 👀 I’m interested in Software Enginnering
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning and exploring GenAI
 - skills = {
 -     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native"],
 -     backend: ["NodeJS", "Python", "ExpressJS", "FastAPI", "MongoDB", "PostGres", "GemAI", "Redis"],
