@@ -2,8 +2,8 @@
 - 👀 I’m interested in Software Enginnering
 - 🌱 I’m currently learning TypeScript
 - skills = {
--     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native", "Remix"],
--     backend: ["NodeJS", "Golang", "ExpressJS", "Fiber", "MongoDB", "PostGres", "GraphQL", "Redis"],
+-     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native"],
+-     backend: ["NodeJS", "Python", "ExpressJS", "FastAPI", "MongoDB", "PostGres", "GemAI", "Redis"],
 -     tools: ["Git", "Docker", "Terraform"],
 -     cloud: ["AWS Lambda", "Amazon EC2", "Amazon DynamoDB", "AWS IAM", "Simple Storage Service", "Amazon API Gateway", "Amazon CloudFront", "Amazon CloudWatch", "etc"]
 - }
