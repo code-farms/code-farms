@@ -4,7 +4,7 @@
 - skills = {
 -     frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "TailwindCSS", "Readux-Toolkit", "ReactJS", "NextJS", "React-Native"],
 -     backend: ["NodeJS", "Python", "ExpressJS", "FastAPI", "MongoDB", "PostGres", "GemAI", "Redis"],
--     tools: ["Git", "Docker", "Terraform"],
+-     tools: ["Git", "Docker", Kubernetes, "Terraform"],
 -     cloud: ["AWS Lambda", "Amazon EC2", "Amazon DynamoDB", "AWS IAM", "Simple Storage Service", "Amazon API Gateway", "Amazon CloudFront", "Amazon CloudWatch", "etc"]
 - }
 
