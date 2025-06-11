@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tech Stack Logos
+## 🚀 Tech Stack
 
 ### Frontend  
 
